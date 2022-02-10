@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://github.com/BytexThunder">BytexThunder</a>
+  
+</h1>
 
-<!--
-**BytexThunder/BytexThunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=cyan">
+</div>
 
-Here are some ideas to get you started:
+### Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+#!/usr/bin/env python3
+        
+if __name__ == '__main__':
+    aboutMe = {
+        'Name': 'Thunder'
+    }
+    
+    for b, t in aboutMe.items():
+        print(f'{b} - {t}')
+        
+```
+
+<details>
+<summary><b>ACTIVITY</b></summary>
+<br>
+  
+![Tomo top langs](https://github-readme-stats.vercel.app/api/top-langs?username=0xrohadi&layout=compact&show_icons=true&theme=outrun)
+</details>
