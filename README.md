@@ -1,7 +1,6 @@
-<h1 align="center">
-  <a href="https://github.com/BytexThunder">BytexThunder</a>
-  
-</h1>
+<div align="center">
+  <img src="https://de26-engine.flamingtext.com/netfu/tmp28000/coollogo_com-294191631.png">
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=cyan">
