@@ -9,7 +9,8 @@
         
 if __name__ == '__main__':
     aboutMe = {
-        'Name': 'Thunder'
+        'Name': 'Thunder',
+        'From': 'Indonesian'
     }
     
     for b, t in aboutMe.items():
