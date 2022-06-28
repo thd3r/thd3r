@@ -22,5 +22,5 @@ if __name__ == '__main__':
 <summary><b>ACTIVITY</b></summary>
 <br>
   
-![Tomo top langs](https://github-readme-stats.vercel.app/api/top-langs?username=0xrohadi&layout=compact&show_icons=true&theme=outrun)
+![Tomo top langs](https://github-readme-stats.vercel.app/api/top-langs?username=thd3rBoy&layout=compact&show_icons=true&theme=outrun)
 </details>
