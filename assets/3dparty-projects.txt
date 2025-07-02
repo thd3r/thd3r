@@ -1,0 +1,28 @@
+KONDISI: TRANSAKSI BERUPA PRODUK DIGITAL
+
+**ALUR KERJANYA**
+
+Seller: hey, gimana kalo kita menggunakan layanan pihak ketiga
+	 sebagai tempat transaksi?
+	 
+Client: boleh, tapi apakah layanan ini dapat dipercaya? maksudku,
+	bagaimana cara kerjanya?
+	
+Seller: tentu, layanan ini dapat dipercaya! dengan menggunakan
+	teknologi blockchain yang membantu mengenkripsi setiap transaksi
+	end to end dan perlu diketahui bahwa sistem ini terdesentralisasi.
+	
+	transaksi ini dilakukan secara anonim artinya layanan
+	tidak dapat mengetahui setiap informasi penggunannya 
+	sekecil apapun itu tidak akan disimpan dilayanan dan 
+	pihak ketiga tidak memiliki hak atas informasi itu
+	
+Client: Baiklah, mari kita lakukan!. Dimana kita bisa memulainya?
+
+Seller: mengirim tautan undangan ruangan ke client...
+	https://myserver.com/invite/room/12323
+	
+Client: mendapatkan tautannya...
+
+
+
